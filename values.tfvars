@@ -1,4 +1,4 @@
 default_vpc_subnets = [
-  "<subnet_id_1>",
-  "<subnet_id_2>",
+  "subnet-1daac47a",
+  "subnet-51d3ed1b",
 ]
